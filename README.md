@@ -1,0 +1,2 @@
+# Relay-Maze-Week-0-Project-
+In my scratch project, the user goes through a simple maze. For each turn in the maze, the user will change into a different animal. In order to change into each animal, the user will have to answer a true or false question about this animal (this is the only part of the project that requires keyboard input, because the user must type in the correct answer to the question, in order to move on.) At the end of the maze, the user will reach a star, and have to answer another, more complicated question about it.
